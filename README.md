@@ -7,4 +7,5 @@ Here, the Neural Network has three inputs. They y position of the bird, the diff
 
 Resources:
 NEAT documentation : https://neat-python.readthedocs.io/en/latest/
+<br>
 PyGame : https://www.pygame.org/docs/
